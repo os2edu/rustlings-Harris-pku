@@ -1,0 +1,96 @@
+✅ intro2 pass
+✅ intro1 pass
+❌ variables1 points 0/1
+❌ variables2 points 0/1
+❌ variables3 points 0/1
+❌ variables4 points 0/1
+❌ variables6 points 0/1
+❌ variables5 points 0/1
+✅ functions1 pass
+✅ functions2 pass
+✅ functions3 pass
+✅ functions4 pass
+✅ functions5 pass
+✅ if1 pass
+✅ if2 pass
+❌ primitive_types1 points 0/1
+❌ primitive_types2 points 0/1
+❌ primitive_types3 points 0/1
+❌ quiz1 points 0/1
+❌ primitive_types4 points 0/1
+❌ primitive_types5 points 0/1
+❌ primitive_types6 points 0/1
+❌ vecs2 points 0/1
+❌ vecs1 points 0/1
+❌ move_semantics1 points 0/1
+❌ move_semantics2 points 0/1
+❌ move_semantics3 points 0/1
+❌ move_semantics5 points 0/1
+❌ move_semantics4 points 0/1
+❌ move_semantics6 points 0/1
+❌ structs1 points 0/1
+❌ structs2 points 0/1
+❌ structs3 points 0/1
+✅ enums1 pass
+✅ enums2 pass
+❌ strings1 points 0/1
+❌ strings2 points 0/1
+❌ strings3 points 0/1
+✅ enums3 pass
+❌ strings4 points 0/1
+✅ modules1 pass
+✅ modules2 pass
+✅ modules3 pass
+✅ hashmaps1 pass
+✅ hashmaps2 pass
+❌ quiz2 points 0/1
+✅ hashmaps3 pass
+❌ options1 points 0/1
+❌ options2 points 0/1
+❌ options3 points 0/1
+✅ errors1 pass
+✅ errors2 pass
+✅ errors3 pass
+✅ errors4 pass
+✅ errors5 pass
+✅ errors6 pass
+✅ generics1 pass
+❌ traits1 points 0/1
+❌ traits2 points 0/1
+✅ generics2 pass
+❌ traits3 points 0/1
+❌ traits4 points 0/1
+❌ traits5 points 0/1
+❌ tests1 points 0/1
+❌ tests2 points 0/1
+❌ tests3 points 0/1
+❌ quiz3 points 0/1
+✅ lifetimes1 pass
+✅ lifetimes2 pass
+❌ iterators1 points 0/1
+❌ iterators2 points 0/1
+✅ lifetimes3 pass
+❌ iterators4 points 0/1
+❌ iterators3 points 0/1
+❌ box1 points 0/1
+❌ iterators5 points 0/1
+❌ arc1 points 0/1
+❌ rc1 points 0/1
+❌ threads1 points 0/1
+❌ cow1 points 0/1
+❌ threads2 points 0/1
+❌ threads3 points 0/1
+✅ macros1 pass
+✅ macros2 pass
+✅ macros3 pass
+✅ macros4 pass
+✅ clippy2 pass
+✅ clippy1 pass
+✅ using_as pass
+✅ from_into pass
+✅ clippy3 pass
+✅ from_str pass
+✅ try_from_into pass
+✅ as_ref_mut pass
+
+Points: 41/94
